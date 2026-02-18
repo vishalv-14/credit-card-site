@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credit Card Tools</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Manage Your Credit Card</h1>
+    </header>
+
+    <main class="container">
+        <div class="card-btn" onclick="alert('Coming Soon!')">Apply Card to Card</div>
+        <div class="card-btn" onclick="alert('Coming Soon!')">Redeem Rewards Points</div>
+        <div class="card-btn" onclick="alert('Coming Soon!')">CPP Activation</div>
+        <div class="card-btn" onclick="alert('Coming Soon!')">Credit Card Limit Increase</div>
+        <div class="card-btn" onclick="alert('Coming Soon!')">Block Card</div>
+        <div class="card-btn" onclick="alert('Coming Soon!')">Card Activation</div>
+    </main>
+
+    <footer>
+        &copy; 2026 YourSite
+    </footer>
+<script src="script.js"></script>
+</body>
+</html>
